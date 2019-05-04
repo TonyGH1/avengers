@@ -1,6 +1,6 @@
 # Miembros
 
-* Tony
+* Tony.
 * Black panther
 * Black Widow
 * Capitán America
