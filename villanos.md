@@ -1,4 +1,4 @@
 ## Villanos
 
 1. Joker
-Esto es un arreglito
+Esto es un arreglito (anulado)

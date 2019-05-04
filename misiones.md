@@ -1,4 +1,4 @@
 # Misiones
 Investigar todo
 Capturar todo
-Esto es un arreglito
+Esto es un arreglito (anulado)
